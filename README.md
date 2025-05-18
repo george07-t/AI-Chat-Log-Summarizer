@@ -1,4 +1,5 @@
 # AI Chat Log Summarizer
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![Python](https://img.shields.io/badge/Language-Python-blue.svg) ![NLP](https://img.shields.io/badge/Domain-NLP-green.svg)
 
 This project provides a Python tool for summarizing AI chat logs. It parses chat conversations, extracts statistics, and identifies key topics using both word frequency and TF-IDF analysis.
 
@@ -52,6 +53,9 @@ Summary:
 - Most common keywords (using TF-IDF): machine, learning, explain, field, ai.
 ========================================
 ```
+## Example Output Screenshot
+![image](https://github.com/user-attachments/assets/bbf241f0-1f64-40c2-92be-1704c81bced5)
+
 
 ## Notes
 
